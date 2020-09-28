@@ -4,7 +4,7 @@
 
 ## Indice
 
-**PART I**
+**PART I: BASICS**
 
 1. Getting Started
 1. Variables And Simple Data Types
@@ -17,4 +17,6 @@
 1. Classes
 1. Files And Exceptions
 1. Testing Your Code
+
+**PART II: PROJECTS**
 
