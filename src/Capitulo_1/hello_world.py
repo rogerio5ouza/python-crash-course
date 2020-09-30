@@ -1,3 +1,3 @@
-# Impressão de mensagem de texto na tela.
+# Impressão de mensagem de texto
 
 print("Hello Python interpreter!")
