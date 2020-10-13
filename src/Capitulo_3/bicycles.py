@@ -14,3 +14,9 @@ print(bicycles[0])
 
 bicycles = ['trek', 'cannondale', 'redline', 'specialized']
 print(bicycles[0].title())
+
+# Python possui uma sintaxe especial para acessar o último elemento em uma list. Ao solicitar o item no índice -1,
+# o Python retorna sempre o último item da list:
+
+bicycles = ['trek', 'cannondale', 'redline', 'specialized']
+print(bicycles[-1])
